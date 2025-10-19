@@ -12,6 +12,7 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
+```
 #include<stdio.h>
 int main()
 {
@@ -64,7 +65,7 @@ int main()
     }
     return 0;
 }
-
+```
 ## OUTPUT:
 
 ![WhatsApp Image 2025-10-19 at 17 22 57_c7f556b3](https://github.com/user-attachments/assets/f169037f-0c0f-4274-a34e-7d0fcfc21e9b)
@@ -90,6 +91,7 @@ Write a C program to perform addition and subtraction of two numbers using funct
 4.	Call the addition and subtraction functions, passing the two numbers as arguments.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 int addition(int num1, int num2)
 {
@@ -115,7 +117,7 @@ int main()
      return 0;
 }
 
-
+```
 ## OUTPUT:
 
 ![WhatsApp Image 2025-10-19 at 17 25 24_61f9c9ca](https://github.com/user-attachments/assets/3a36d86d-eb18-4dc8-9c7d-51c005d9e4f8)
@@ -143,6 +145,7 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 int main()
 {
@@ -160,6 +163,7 @@ int main()
     printf("%d",sum);
     return 0;
 }
+```
 
 ## OUTPUT:
 
@@ -188,6 +192,7 @@ d.	After the loop, print the factorial value.
 5.	End
 
 ## PROGRAM:
+```
 #include <stdio.h>
 
 void computeFactorial(void)
@@ -218,7 +223,7 @@ int main(void)
     computeFactorial();
     return 0;
 }
-
+```
 ## OUTPUT:
 ![WhatsApp Image 2025-10-19 at 17 32 03_fc2556a9](https://github.com/user-attachments/assets/143115e6-32ba-47ca-9638-eaaadc030ff5)
 
